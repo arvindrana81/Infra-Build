@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/devopsorgin/myfirstprojectdevops/_apis/build/status/arvindrana81.Infra-Build?branchName=master)](https://dev.azure.com/devopsorgin/myfirstprojectdevops/_build/latest?definitionId=3&branchName=master)
+
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
